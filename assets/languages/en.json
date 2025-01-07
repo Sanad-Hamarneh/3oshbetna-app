@@ -1,0 +1,335 @@
+
+{
+  "appName": "3oshbetna",
+  "welcomeSubtitle": "Discover the plants around you easily. Just take a picture, and we'll provide the details.",
+  "buttonTap": "Tap",
+  "homeScreenTitle": "Explore New Plants!",
+  "mostPopular": "Most Popular",
+  "homeScreenDates": "02 - 23 July",
+  "identifyNow": "Identify Now",
+  "scanTitle": "Scan",
+  "selectModel": "Select Model",
+  "openCamera": "Open Camera",
+  "seeDetails": "See Details",
+  "chooseFromGallery": "Choose From Gallery",
+"noImageSelected":"No Image Selected",
+
+"model1Name": "General Identification",
+  "model1Description": "Recommended for general plant identification. Covers a wide variety of plants, making it suitable for diverse environments.",
+  "model2Name": "Specific Identification",
+  "model2Description": "Best for specific plant identification. Focuses on a smaller set of plants for higher accuracy.",
+
+"or":"Or",
+
+ "scanTitle": "Scan Plants",
+  "chooseModel": "Choose a Model",
+  "aiDisclaimer": "Note: AI may sometimes make mistakes. Always double-check the results!",
+  "ingredients":"Ingredients",
+  "directions":"Directions",
+  "unknown": "Plant not identified",
+
+
+
+
+  "retryScan": "Retry Scan",
+  "uploadFailed": "Upload failed with status:",
+  "uploadError": "An error occurred while uploading the image",
+  "details": "Details",
+  "toxicity": "Toxicity",
+  "benefits": "Benefits",
+  
+  "plants": {
+    "Cheeseweed": "Cheeseweed",
+    "Coriander": "Coriander",
+    "Ecballium": "Ecballium",
+    "MilkThistle": "Milk thistle",
+    "Nettles": "Nettles",
+    "Oleander": "Oleander",
+    "Parsley": "Parsley"
+  },
+  "cookingRecipes": "Cooking Recipes",
+  "MilkThistle": "Milk Thistle",
+  "MilkThistleDesc": "A plant known for its detoxifying properties, often used to support liver health.",
+  "MilkThistleToxicity": "Generally safe for most people; can cause allergic reactions or gastrointestinal issues in some cases.",
+  "MilkThistleBenefits": "Supports liver health, detoxifies the body.",
+  "MilkThistleCooking": "Can be used in herbal teas or as an extract.",
+  "Cheeseweed": "Cheeseweed",
+  "CheeseweedDesc": "A plant sometimes used in traditional medicine for its soothing properties.",
+  "CheeseweedToxicity": "Non-toxic in small amounts, but large consumption can cause digestive discomfort.",
+  "CheeseweedBenefits": "Soothing properties, helps with digestion.",
+  "CheeseweedCooking": "Can be added to salads or used in soups.",
+  "Ecballium": "Ecballium",
+  "EcballiumDesc": "Also known as the squirting cucumber, it is a wild plant known for its explosive fruit dispersal.",
+  "EcballiumToxicity": "Toxic; ingestion or contact with its juice can cause severe gastrointestinal irritation and skin or eye irritation.",
+  "EcballiumBenefits": "Has limited traditional medicinal uses but should be handled with care.",
+  "EcballiumCooking": "Not used in cooking due to its toxicity.",
+  "Nettles": "Nettles",
+  "NettlesDesc": "A plant known for its stinging hairs, often used in teas and herbal remedies after processing.",
+  "NettlesToxicity": "Fresh nettles can cause skin irritation, but they are safe to consume after cooking or drying.",
+  "NettlesBenefits": "Rich in vitamins and minerals, supports kidney health and reduces inflammation.",
+  "NettlesCooking": "Used in soups, teas, and as a cooked vegetable.",
+  "Parsley": "Parsley",
+  "ParsleyDesc": "A versatile herb used in cooking and garnishing, rich in nutrients and antioxidants.",
+  "ParsleyToxicity": "Safe for most people, but excessive consumption may cause mild stomach upset.",
+  "ParsleyBenefits": "Rich in vitamin C and K, supports bone health and immune function.",
+  "ParsleyCooking": "Commonly used in salads, soups, and as a garnish.",
+  "Coriander": "Coriander",
+  "CorianderDesc": "An aromatic herb used in cooking, both the leaves and seeds are widely used.",
+  "CorianderToxicity": "Safe for most people; rarely causes allergic reactions.",
+  "CorianderBenefits": "Supports digestion, lowers blood sugar levels, and has antibacterial properties.",
+  "CorianderCooking": "Used in curries, soups, and as a garnish.",
+  "Oleander": "Oleander",
+  "OleanderDesc": "A highly toxic ornamental plant with beautiful flowers.",
+  "OleanderToxicity": "Highly toxic; ingestion or contact with sap can cause severe poisoning or death.",
+  "OleanderBenefits": "Primarily ornamental, with no known health benefits due to its toxicity.",
+  "OleanderCooking": "Not applicable due to toxicity.",
+  "recipes": [
+    {
+      "name": "milkthistle",
+      "arabicName": "شوك الحليب",
+      "image": "images/plants/Milk_thistle/main.jpg",
+      "time": "15 min",
+      "ingredientsCount": "3 Ingredients",
+      "difficulty": "Easy",
+      "cookingRecipesData": {
+        "name": "Milk thistle tea",
+        "ingredients": [
+          "1 tablespoon Milk thistle seeds",
+          "1 cup boiled water",
+          "Honey (optional for sweetening)"
+        ],
+        "steps": [
+          {
+            "description": "Grind the milk thistle seeds to obtain a fine powder.",
+            "image": "images/plants/Milk_thistle/step1.png"
+          },
+          {
+            "description": "Boil 1 cup of water and add the seed powder.",
+            "image": "images/plants/Milk_thistle/step2.jpg"
+          },
+          {
+            "description": "Let the tea simmer for 5 minutes and then strain it.",
+            "image": "images/plants/Milk_thistle/step3.jpg"
+          },
+          {
+            "description": "Serve the tea hot, adding honey if desired for sweetness.",
+            "image": "images/plants/Milk_thistle/main.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cheeseweed",
+      "arabicName": "خبيزة",
+      "image": "images/plants/cheese_weed/main.jpg",
+      "time": "1.3 hours",
+      "ingredientsCount": "13 Ingredients",
+      "difficulty": "Hard",
+      "cookingRecipesData": {
+        "name": "Stuffed Cheeseweed Leaves",
+        "ingredients": [
+          "Cheeseweed leaves",
+          "2 cups rice",
+          "½ cup minced meat",
+          "Pinch of salt",
+          "Pinch of pepper",
+          "Pinch of mint",
+          "1 tablespoon chicken broth powder",
+          "1 tablespoon olive oil",
+          "Juice of half a lemon",
+          "Tomato slices",
+          "2 cups water",
+          "2 tablespoons tomato paste",
+          "1 tablespoon chicken powder"
+        ],
+        "steps": [
+          {
+            "description": "Wash the cheeseweed leaves. No need to boil as they are tender.",
+            "image": "images/plants/cheese_weed/step1.jpg"
+          },
+          {
+            "description": "Mix the stuffing ingredients and start stuffing and rolling like grape leaves.",
+            "image": "images/plants/cheese_weed/step2.jpg"
+          },
+          {
+            "description": "Layer tomato slices at the bottom of the pot and arrange stuffed leaves on top.",
+            "image": "images/plants/cheese_weed/step3.jpg"
+          },
+          {
+            "description": "Add water mixed with tomato paste, salt, and chicken broth powder, then cook.",
+            "image": "images/plants/cheese_weed/step4.jpg"
+          },
+          {
+            "description": "Let it cook until done. Serve and enjoy.",
+            "image": "images/plants/cheese_weed/main.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ecballium",
+      "arabicName": "القثاء الحمار",
+      "image": "images/plants/Ecballium/main.jpg",
+      "time": "-",
+      "ingredientsCount": "-",
+      "difficulty": "-",
+      "cookingRecipesData": {
+        "name": "Not edible",
+        "ingredients": [
+          "Ecballium contains toxic cucurbitacins and all parts of the plant are potentially lethal if ingested."
+        ],
+        "steps": [
+          {
+            "description": "This plant is toxic and unsuitable for cooking.",
+            "image": "images/plants/Ecballium/step1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Nettles",
+      "arabicName": "القراص",
+      "image": "images/plants/Nettles/main.jpg",
+      "time": "30 min",
+      "ingredientsCount": "4 Ingredients",
+      "difficulty": "Easy",
+      "cookingRecipesData": {
+        "name": "Nettle Soup",
+        "ingredients": [
+          "200g fresh nettles",
+          "½ kg potatoes",
+          "1 liter chicken broth",
+          "A splash of cooking cream (optional)"
+        ],
+        "steps": [
+          {
+            "description": "Wear gloves, clean the nettles, and chop them.",
+            "image": "images/plants/Nettles/step1.jpg"
+          },
+          {
+            "description": "Peel and cube the potatoes.",
+            "image": "images/plants/Nettles/step2.jpg"
+          },
+          {
+            "description": "Boil the potatoes until partially cooked.",
+            "image": "images/plants/Nettles/step3.JPG"
+          },
+          {
+            "description": "Drain the potatoes and add them with nettles and broth to a pot.",
+            "image": "images/plants/Nettles/step4.jpg"
+          },
+          {
+            "description": "Bring the mixture to a boil.",
+            "image": "images/plants/Nettles/step5.png"
+          },
+          {
+            "description": "Blend the soup using a hand blender.",
+            "image": "images/plants/Nettles/step6.jpg"
+          },
+          {
+            "description": "Add cream and seasonings to taste, then stir.",
+            "image": "images/plants/Nettles/main.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Parsley",
+      "arabicName": "بقدونس",
+      "image": "images/plants/Parsley/main.jpg",
+      "time": "15 min",
+      "ingredientsCount": "1 Ingredients",
+      "difficulty": "Easy",
+      "cookingRecipesData": {
+        "name": "Parsley Tea",
+        "ingredients": [
+          "¼ cup of fresh parsley leaves per cup of boiled water"
+        ],
+        "steps": [
+          {
+            "description": "Remove fresh parsley leaves from the stems.",
+            "image": "images/plants/Parsley/step1.jpg"
+          },
+          {
+            "description": "Add ¼ cup of parsley leaves for each cup of boiled water.",
+            "image": "images/plants/Parsley/step2.jpg"
+          },
+          {
+            "description": "Boil for 5 to 10 minutes.",
+            "image": "images/plants/Parsley/step3.jpg"
+          },
+          {
+            "description": "Strain the leaves and pour the mixture into a cup for serving.",
+            "image": "images/plants/Parsley/main.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Coriander",
+      "arabicName": "كزبرة",
+      "image": "images/plants/Coriander/main.jpg",
+      "time": "1.30 hours",
+      "ingredientsCount": "10 Ingredients",
+      "difficulty": "Hard",
+      "cookingRecipesData": {
+        "name": "Stuffed Potatoes with Coriander",
+        "ingredients": [
+          "1 kg of potatoes",
+          "½ kg of coarsely minced meat",
+          "2 finely chopped onions",
+          "Pinch of salt and black pepper",
+          "Pinch of mixed spices",
+          "2 tablespoons of lemon juice",
+          "½ bunch of chopped fresh coriander",
+          "4 cloves of mashed garlic",
+          "1 chicken stock cube",
+          "Oil for frying"
+        ],
+        "steps": [
+          {
+            "description": "Peel the potatoes, hollow them out, and keep the cores for the filling.",
+            "image": "images/plants/Coriander/step1.jpg"
+          },
+          {
+            "description": "Fry the potatoes until golden brown.",
+            "image": "images/plants/Coriander/step2.jpg"
+          },
+          {
+            "description": "Mix the minced meat with mashed garlic, coriander, onions, and spices.",
+            "image": "images/plants/Coriander/step3.jpg"
+          },
+          {
+            "description": "Stuff the potatoes with the mixture and bake them in the oven until cooked.",
+            "image": "images/plants/Coriander/step4.jpg"
+          },
+          {
+            "description": "Serve the stuffed potatoes hot.",
+            "image": "images/plants/Coriander/main.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Oleander",
+      "arabicName": "دفلى",
+      "image": "images/plants/oleander/main.jpg",
+      "time": "-",
+      "ingredientsCount": "-",
+      "difficulty": "-",
+      "cookingRecipesData": {
+        "name": "Not Edible",
+        "ingredients": [
+          "This plant is highly toxic and not suitable for cooking."
+        ],
+        "steps": [
+          {
+            "description": "This plant is highly toxic and not suitable for cooking.",
+            "image": "images/plants/oleander/main.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
+

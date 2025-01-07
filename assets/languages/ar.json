@@ -1,0 +1,354 @@
+{
+   "appName":"عشبتنا",
+   "welcomeSubtitle":"تعرف على النباتات حولك بكل سهولة. بس صور ورحنا بنعطيك التفاصيل.",
+   "buttonTap":"اكبس",
+   "homeScreenTitle":"اكتشف نباتات جديدة!",
+   "mostPopular":"الأكثر شهرة",
+   "homeScreenDates":"02 - 23 يوليو",
+   "allPlants":"الكل",
+   "toxicPlants":"نباتات سامة",
+   "nonToxicPlants":"نباتات غير سامة",
+   "identifyNow":"تحديد الآن",
+   "scanTitle":"مسح",
+
+"noImageSelected":"لم يتم اختيار صورة",
+
+"scanTitle": "مسح النباتات",
+  "chooseModel": "اختر نموذجًا",
+  "aiDisclaimer": "ملاحظة: قد يرتكب الذكاء الاصطناعي أخطاءً. تأكد دائمًا من النتائج!",
+  "openCamera": "افتح الكاميرا",
+  "chooseFromGallery": "اختر من المعرض",
+"or":"أو",
+
+ "model1Name": "التعرف العام",
+  "model1Description": "موصى به للتعرف العام على النباتات. يغطي مجموعة متنوعة من النباتات، مما يجعله مناسبًا للبيئات المختلفة.",
+  "model2Name": "التعرف المحدد",
+  "model2Description": "أفضل للتعرف على النباتات المحددة. يركز على مجموعة أصغر من النباتات للحصول على دقة أعلى.",
+ "directions":"التحضيرات",
+ "ingredients":"مكونات",
+   "selectModel":"اختر النموذج",
+   "openCamera":"افتح الكاميرا",
+   "chooseFromGallery":"اختر من المعرض",
+  "seeDetails": "عرض التفاصيل",
+   "retryScan":"إعادة المسح",
+  "unknown": "النبات غير معروف",
+
+
+   "uploadFailed":"فشل الرفع بالحالة:",
+   "uploadError":"حدث خطأ أثناء رفع الصورة",
+   "details":"تفاصيل",
+   "toxicity":"السمية",
+  
+   "plants": {
+    "Cheeseweed": "خبيزة",
+    "Coriander": "كزبرة",
+    "Ecballium": "القثاء الحمار",
+    "MilkThistle": "شوك الحليب",
+    "Nettles": "القراص",
+    "Oleander": "دفلى",
+    "Parsley": "بقدونس"
+  },
+   "benefits":"الفوائد",
+   "cookingRecipes":"وصفات الطبخ",
+   "MilkThistle":"شوك الحليب",
+   "MilkThistleDesc":"نبات معروف بخصائصه المساعدة على التخلص من السموم، يُستخدم لدعم صحة الكبد.",
+   "MilkThistleToxicity":"آمن لمعظم الناس؛ قد يسبب حساسية أو مشاكل في الجهاز الهضمي في بعض الحالات.",
+   "MilkThistleBenefits":"يدعم صحة الكبد، يزيل السموم من الجسم.",
+   "MilkThistleCooking":"يمكن استخدامه في الشاي العشبي أو كمستخلص.",
+   "Cheeseweed":"خبيزة",
+   "CheeseweedDesc":"نبات يستخدم أحيانًا في الطب التقليدي لخصائصه المهدئة.",
+   "CheeseweedToxicity":"غير سام بكميات صغيرة، ولكن يمكن أن يسبب اضطرابًا هضميًا عند تناوله بكميات كبيرة.",
+   "CheeseweedBenefits":"خصائص مهدئة، يساعد على الهضم.",
+   "CheeseweedCooking":"يمكن إضافته إلى السلطات أو استخدامه في الحساء.",
+   "Ecballium":"القثاء الحمار",
+   "EcballiumDesc":"يُعرف أيضًا بالخيار المتفجر، وهو نبات بري معروف بانتشار ثماره بشكل متفجر.",
+   "EcballiumToxicity":"سام؛ يمكن أن يسبب تهيجًا شديدًا في الجهاز الهضمي والجلد أو العينين.",
+   "EcballiumBenefits":"له استخدامات طبية تقليدية محدودة ولكن يجب التعامل معه بحذر.",
+   "EcballiumCooking":"لا يُستخدم في الطبخ بسبب سميته.",
+   "Nettles":"القراص",
+   "NettlesDesc":"نبات معروف بشعره اللاذع، غالبًا ما يُستخدم في الشاي والعلاجات العشبية بعد معالجته.",
+   "NettlesToxicity":"يمكن أن تسبب القراص الطازجة تهيج الجلد، لكنها آمنة للاستهلاك بعد الطهي أو التجفيف.",
+   "NettlesBenefits":"غنية بالفيتامينات والمعادن، تدعم صحة الكلى وتقلل الالتهاب.",
+   "NettlesCooking":"تُستخدم في الحساء والشاي وكخضار مطبوخ.",
+   "Parsley":"بقدونس",
+   "ParsleyDesc":"عشب متعدد الاستخدامات يُستخدم في الطهي والتزيين، غني بالعناصر الغذائية ومضادات الأكسدة.",
+   "ParsleyToxicity":"آمن لمعظم الناس، لكن الإفراط في تناوله قد يسبب اضطرابًا خفيفًا في المعدة.",
+   "ParsleyBenefits":"غني بفيتامين C و K، يدعم صحة العظام ووظيفة المناعة.",
+   "ParsleyCooking":"يُستخدم في السلطات والحساء وكزينة.",
+   "Coriander":"كزبرة",
+   "CorianderDesc":"عشب عطري يُستخدم في الطهي، تُستخدم الأوراق والبذور على نطاق واسع.",
+   "CorianderToxicity":"آمن لمعظم الناس؛ نادرًا ما يسبب ردود فعل تحسسية.",
+   "CorianderBenefits":"يدعم الهضم، يخفض مستويات السكر في الدم، وله خصائص مضادة للبكتيريا.",
+   "CorianderCooking":"يُستخدم في الكاري والحساء وكزينة.",
+   "Oleander":"دفلى",
+   "OleanderDesc":"نبات زينة سام جدًا بزهور جميلة.",
+   "OleanderToxicity":"سام جدًا؛ يمكن أن يسبب التسمم الشديد أو الوفاة عند تناوله أو عند ملامسة العصارة.",
+   "OleanderBenefits":"للزينة فقط، ولا توجد فوائد صحية معروفة بسبب سميته.",
+   "OleanderCooking":"غير قابل للاستخدام بسبب سميته.",
+   "recipes":[
+      {
+         "name":"MilkThistle",
+         "arabicName":"شوك الحليب",
+         "image":"images/plants/Milk_thistle/main.jpg",
+         "time":"١٥ دقيقة",
+         "ingredientsCount":"٣ مكونات",
+         "difficulty":"سهل",
+         "cookingRecipesData":{
+            "name":
+               "شاي شوك الحليب"
+            ,
+            "ingredients":[
+               "ملعقة من بذور شوك الحليب",
+               "كوب ماء مغلي",
+               "عسل (اختياري للتحلية)"
+            ],
+            "steps":[
+               {
+                  "description":"اطحن بذور شوك الحليب للحصول على مسحوق ناعم.",
+                  "image":"images/plants/Milk_thistle/step1.png"
+               },
+               {
+                  "description":"قم بغلي كوب من الماء وأضف مسحوق البذور.",
+                  "image":"images/plants/Milk_thistle/step2.jpg"
+               },
+               {
+                  "description":"اترك الشاي يغلي لمدة 5 دقائق ثم صفّه.",
+                  "image":"images/plants/Milk_thistle/step3.jpg"
+               },
+               {
+                  "description":"قدّم الشاي ساخناً ويمكن إضافة العسل للتحلية حسب الرغبة.",
+                  "image":"images/plants/Milk_thistle/main.jpg"
+               }
+            ]
+         }
+      },
+      {
+         "name":"Cheeseweed",
+         "arabicName":"خبيزة",
+         "image":"images/plants/cheese_weed/main.jpg",
+         "time":"١.٣٠ دقيقة",
+         "ingredientsCount":"١٣ مكونات",
+         "difficulty":"صعب",
+         "cookingRecipesData":{
+            "name":
+               "ورق خبيزة محشي"
+            ,
+            "ingredients":[
+               "كمية من ورق الخبيزة",
+               "كاستين رز",
+               "½ كاسة لحمة مفرومة",
+               "رشة ملح",
+               "رشة فلفل",
+               "رشة نعنع",
+               "ملعقة من بودرة مرق الدجاج",
+               "ملعقة زيت زيتون",
+               "عصير نصف ليمونه",
+               "شرحات بندورة",
+               "كاستين ماء",
+               "ملعقتين معجون البندورة",
+               "ملعقة بودرة الدجاج"
+            ],
+            "steps":[
+               {
+                  "description":"بنغسل أوراق الخبيزة وما بنسلقها لأنها طرية مو بحاجة للسلق.",
+                  "image":"images/plants/cheese_weed/step1.jpg"
+               },
+               {
+                  "description":"بنخلط مكونات الحشوة وبنبلش حشي وبنلفها متل ورق العنب.",
+                  "image":"images/plants/cheese_weed/step2.jpg"
+               },
+               {
+                  "description":"بنرتب بقاع الطنجرة شرحات البندورة وازا حبيتو شرحات ليمون وبنرتب الحبات المحشية.",
+                  "image":"images/plants/cheese_weed/step3.jpg"
+               },
+               {
+                  "description":"بنضيف الماء بعد تذويب معجون البندورة والملح وبودرة مرق الدجاج وبنحطها على النار.",
+                  "image":"images/plants/cheese_weed/step4.jpg"
+               },
+               {
+                  "description":"بنتركها عالنار لحتى تستوي وما بتاخذ وقت كتير.",
+                  "image":"images/plants/cheese_weed/step3_2.jpg"
+               },
+               {
+                  "description":"تقلب وتقدم مممممم ما رح تفرقو طعمها عن طعم ورق العنب المحشي بشهيييي.",
+                  "image":"images/plants/cheese_weed/main.jpg"
+               }
+            ]
+         }
+      },
+      {
+         "name":"Ecballium",
+         "arabicName":"القثاء الحمار",
+         "image":"images/plants/Ecballium/main.jpg",
+         "time":"-",
+         "ingredientsCount":"-",
+         "difficulty":"-",
+         "cookingRecipesData":{
+            "name":
+               "غير صالح للطهي"
+            ,
+            "ingredients":[
+               "يحتوي نبات قثاء الحمار على مركب الكيوكيربيتاسين (بالإنجليزية: Cucurbitacins) السام، ويمكن أن تكون جميع أجزاء النبات قاتلة إذا تم تناولها."
+            ],
+            "steps":[
+               {
+                  "description":"هذا النبات سام وغير قابل للاستخدام في الطهي.",
+                  "image":"images/plants/Ecballium/step1.jpg"
+               }
+            ]
+         }
+      },
+      {
+         "name":"Nettles",
+         "arabicName":"القراص",
+         "image":"images/plants/Nettles/main.jpg",
+         "time":"٣٠ دقيقة",
+         "ingredientsCount":"٤ مكونات",
+         "difficulty":"سهل",
+         "cookingRecipesData":{
+            "name":
+               "حساء نبات القراص"
+            ,
+            "ingredients":[
+               "200 غرام من نبات القراص الطازج",
+               "½ كيلو من البطاطا",
+               "1 لتر من مرق الدجاج",
+               "القليل من كريمة الطبخ حسب الرغبة"
+            ],
+            "steps":[
+               {
+                  "description":"ارتدِ القفازات ونظف نبات القراص وقطّعه.",
+                  "image":"images/plants/Nettles/step1.jpg"
+               },
+               {
+                  "description":"قشّر البطاطا وقطّعها إلى مكعبات.",
+                  "image":"images/plants/Nettles/step2.jpg"
+               },
+               {
+                  "description":"اسلق البطاطا بالماء المغلي حتى تنضج قليلاً.",
+                  "image":"images/plants/Nettles/step3.JPG"
+               },
+               {
+                  "description":"صفّ البطاطا من الماء وضعها مع القراص والمرق في وعاء.",
+                  "image":"images/plants/Nettles/step4.jpg"
+               },
+               {
+                  "description":"ضع القدر على النار حتى يغلي الخليط.",
+                  "image":"images/plants/Nettles/step5.png"
+               },
+               {
+                  "description":"استخدم الخلاط اليدوي لخلط المزيج.",
+                  "image":"images/plants/Nettles/step6.jpg"
+               },
+               {
+                  "description":"أضف الكريمة والتوابل وقلّب المزيج.",
+                  "image":"images/plants/Nettles/main.jpg"
+               }
+            ]
+         }
+      },
+      {
+         "name":"Parsley",
+         "arabicName":"بقدونس",
+         "image":"images/plants/Parsley/main.jpg",
+         "time":"15 min",
+         "ingredientsCount":"١ مكونات",
+         "difficulty":"Easy",
+         "cookingRecipesData":{
+            "name":
+               "مغلي البقدونس"
+            ,
+            "ingredients":[
+               "¼ كوب أوراق بقدونس طازجة لكل كوب ماء مغلي"
+            ],
+            "steps":[
+               {
+                  "description":"إزالة أوراق البقدونس الطازجة عن السيقان.",
+                  "image":"images/plants/Parsley/step1.jpg"
+               },
+               {
+                  "description":"إضافة ¼ كوب أوراق البقدونس لكل كوب من الماء المغلي.",
+                  "image":"images/plants/Parsley/step2.jpg"
+               },
+               {
+                  "description":"غليها لمدة تتراوح بين 5 إلى 10 دقائق.",
+                  "image":"images/plants/Parsley/step3.jpg"
+               },
+               {
+                  "description":"صفّ الأوراق من الماء وسكب المزيج في كوب للتقديم.",
+                  "image":"images/plants/Parsley/main.jpg"
+               }
+            ]
+         }
+      },
+      {
+         "name":"Coriander",
+         "arabicName":"كزبرة",
+         "image":"images/plants/Coriander/main.jpg",
+         "time":"١.٣٠ دقيقة",
+         "ingredientsCount":"١٠ مكونات",
+         "difficulty":"صعب",
+         "cookingRecipesData":{
+            "name":
+               "بطاطا محشية بالكزبرة"
+            ,
+            "ingredients":[
+               "1 كيلو بطاطا",
+               "½ كيلو لحمة مفرومة خشنة",
+               "2 بصلة مفرومة ناعم",
+               "رشة ملح وفلفل أسود",
+               "رشة بهار مشكل",
+               "2 ملعقة عصير ليمون",
+               "½ ضمة كزبرة خضراء مفرومة",
+               "4 سن ثوم مهروس",
+               "مكعب مرق دجاج",
+               "زيت للقلي"
+            ],
+            "steps":[
+               {
+                  "description":"قشّري البطاطا واحفريها واحتفظي بالقلب للحشوة.",
+                  "image":"images/plants/Coriander/step1.jpg"
+               },
+               {
+                  "description":"اقلي البطاطا حتى تصبح ذهبية اللون.",
+                  "image":"images/plants/Coriander/step2.jpg"
+               },
+               {
+                  "description":"اخلطي اللحم المفروم مع الثوم المهروس والكزبرة والبصل وأضيفي التوابل.",
+                  "image":"images/plants/Coriander/step3.jpg"
+               },
+               {
+                  "description":"احشي البطاطا بالخليط وضعيها في الفرن حتى تنضج.",
+                  "image":"images/plants/Coriander/step4.jpg"
+               },
+               {
+                  "description":"قدّمي البطاطا المحشية ساخنة.",
+                  "image":"images/plants/Coriander/main.jpg"
+               }
+            ]
+         }
+      },
+      {
+         "name":"Oleander",
+         "arabicName":"دفلى",
+         "image":"images/plants/oleander/main.jpg",
+         "time":"-",
+         "ingredientsCount":"-",
+         "difficulty":"-",
+         "cookingRecipesData":{
+            "name":
+               "غير صالح للطهي"
+            ,
+            "ingredients":[
+               "هذا النبات سام للغاية وغير صالح للاستخدام في الطهي."
+            ],
+            "steps":[
+               {
+                  "description":"هذا النبات سام للغاية وغير صالح للاستخدام في الطهي.",
+                  "image":"images/plants/oleander/main.jpg"
+               }
+            ]
+         }
+      }
+   ]
+}
