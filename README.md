@@ -1,17 +1,29 @@
-# plantapp
+# 🌱  3oshbetna – AI-Powered Plant Identification App
+ 
+## 📌 Overview  
+**3oshbetna** is a smart plant identification app that uses AI and computer vision to recognize plant species, providing users with valuable information about their characteristics and care.  
 
-A new Flutter project.
+## 🚀 Features  
+- 🌿 Identify plant species instantly using AI.  
+- 📷 Capture or upload images for plant recognition.  
+- 🌍 Supports a wide range of plant species, including those native to Jordan.  
+- 📖 Provides scientific names, descriptions, and care tips.  
+- 🔍 User-friendly interface with real-time classification.   
 
-## Getting Started
+## 🤖 Machine Learning Model  
+The app uses a **deep learning model trained on a custom dataset of Jordanian plants**, achieving **over 90% accuracy**. Models tested include:    
+- 🖼️ **ResNet-50**  
 
-This project is a starting point for a Flutter application.
+The selected model is optimized and converted into **TensorFlow Lite (TFLite)** for mobile efficiency.  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Getting Started  
+This project is a **Flutter application** built with:  
+- Flutter  
+- Dart  
+- TensorFlow Lite for AI inference  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# 3oshbetna-app" 
+
+
+![Home Screen](https://github.com/yourusername/3oshbetna/blob/main/screenshots/home.png)
+![Plant Identification](https://github.com/yourusername/3oshbetna/blob/main/screenshots/identify.png)
